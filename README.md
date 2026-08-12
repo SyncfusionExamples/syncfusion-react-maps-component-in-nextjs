@@ -4,6 +4,10 @@
 This application demonstrates the usage of the Syncfusion React maps component in Next.js.
  
 To know how to configure the Syncfusion React maps component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/maps/nextjs-getting-started).
+
+## Project prerequisites
+Make sure that you have the compatible versions of Visual Studio Code in your machine before starting to work on this project.
+Ensure you have Node.js installed on your machine to run the project dependencies and scripts effectively.
  
 ## Clone the repository
  
