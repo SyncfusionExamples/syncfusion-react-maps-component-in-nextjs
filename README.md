@@ -1,38 +1,29 @@
  
 # Getting Started with React UI Components using Next.js
- 
-This application demonstrates the usage of the Syncfusion React maps component in Next.js.
- 
-To know how to configure the Syncfusion React maps component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/maps/nextjs-getting-started).
- 
-## Clone the repository
- 
-* To clone the sample repository locally, open the command prompt in the desired location and execute the following command.
- 
+
+Sample showing Syncfusion React Maps integration in Next.js.
+
+This small Next.js sample demonstrates integrating the Syncfusion React Maps component and provides a minimal runnable example.
+
+This sample is intended for developers who want a minimal, working example to start customizing maps in their Next.js apps. It demonstrates basic integration patterns and a runnable example you can adapt.
+
+Refer to the Syncfusion Next.js maps documentation for configuration and API details:
+
+https://ej2.syncfusion.com/react/documentation/maps/nextjs-getting-started
+
+## Quickstart
+
 ```sh
- 
 git clone https://github.com/SyncfusionExamples/syncfusion-react-maps-component-in-nextjs
- 
-```
- 
-* Navigate to the project directory:
- 
-```sh
 cd syncfusion-react-maps-component-in-nextjs
-```
- 
-## Installing Packages
- 
-Install the required node modules by running the following command:
- 
-```sh
 npm install
-```
- 
-## Run the application
- 
-To run the application, use the following command:
- 
-```bash
 npm run dev
 ```
+
+## Notes
+- Prerequisites: Node.js and npm
+- Example: see `world-map.ts` for the primary map setup
+
+## Contributing & Support
+
+This repository is a sample; suggestions are welcome via issues or pull requests. For API and licensed-component support, consult Syncfusion documentation and channels.
